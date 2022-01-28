@@ -1,0 +1,97 @@
+[
+    {
+        
+        "id": "MA023135",
+        "designation":"Lait écrémé : bouchon vert",
+        "prix":"40 DH",
+        "catégorie":"produits laitiers",
+        "disponibilite":["Dakhla"],
+        "fournisseur":{"raisonSocial":"halib dakhla",
+                      "adress":"place de la Liberté,dakhla "} 
+
+        
+          
+         },
+           
+                        
+                        
+      
+   
+    {
+
+        "id": "MA123205",
+        "designation":"Le lait micro filtré",
+        "prix":"38 DH",
+        "catégorie":"produits laitiers",
+        "disponibilite":["Tadla","Azilal"],
+        "fournisseur":
+            {"raisonSocial" : "Jaouda",
+            "adress" : "Bvd Abdellah Ben Yassine Casablanca"}
+          
+            
+             
+                     }
+    
+    ,
+
+    
+    {
+
+        "id": "MA343213",
+        "designation":"Le lait frais pasteurisé",
+        "prix":"57 DH",
+        "catégorie":"produits laitiers",
+        "disponibilite":["Rabat","Sale"],
+        "fournisseur": 
+            {"raisonSocial" : "Salim",
+            "adress" : "John Kennedy, Souissi, Rabat"}
+          
+
+        }
+    
+    ,
+
+
+    {
+
+        "id": "MA232342",
+        "designation":"Le lait cru",
+        "prix":"40 DH",
+        "catégorie":"produits laitiers",
+        "disponibilite":["Meknes","fes"],
+        "fournisseur":{"raisonSocial":"tetouan","adress":"Hay AlMaghreb AlArabi, Massira II, Témara"} 
+    }
+    ,
+    {
+
+        "id": "MA0001232",
+        "designation":"Lait entier : bouchon rouge",
+        "prix":"63 DH",
+        "catégorie":"produits laitiers",
+        "disponibilite":["Laayoune","Boujdour","eddakhla"],
+        "fournisseur":{"raisonSocial":"jibal","adress":" 43, Mansour Dahbi, TANGER"} 
+    }
+    ,
+    {
+
+        "id": "MA005554",
+        "designation":"Lait demi-écrémé : bouchon bleu",
+        "prix":"27 DH",
+        "catégorie":"produits laitiers",
+        "disponibilite":["Tanger","laarche"],
+        "fournisseur":{"raisonSocial":"Dost","adress":"24, Rue la Fontaine CASA"}
+    }
+    ,
+    {
+
+        "id": "MA12131",
+        "designation":"Lait UHT",
+        "prix":"48 DH",
+        "catégorie":" produits laitiers",
+        "disponibilite":["Tanger","Tétouan","Hoceima"],
+        "fournisseur":
+            {"raisonSocial" : "Central",
+            "adress" : "Mers Soukar, route de Rabat  Mediouna"}
+    }
+    
+]
